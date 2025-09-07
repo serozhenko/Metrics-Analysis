@@ -1,25 +1,25 @@
-# 🛒 Online Store Analytics Project
+# Online Store Analytics Project
 
 This project involves building analytics for an online store using three tools: **SQL**, **Python**, and **Tableau**.
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 - Demonstrate skills in extracting data from a database using **SQL**  
 - Demonstrate skills in exploratory and statistical analysis in **Python**  
 - Demonstrate skills in building dashboards in **Tableau**
 
 ---
 
-## ✅ Final Result
-- 📓 Jupyter Notebook with:
+## Final Result
+- Jupyter Notebook with:
   - Data loading from the database
   - Exploratory and statistical analysis in Python  
-- 📊 Dashboard in **Tableau Public**
+- Dashboard in **Tableau Public**
 
 ---
 
-## 🛠 Project Implementation Plan
+## Project Implementation Plan
 1. Using a **Python script**, we connected to the database in **Google BigQuery (DA dataset)**.  
 2. Based on the available tables, we created a dataset with the following fields:
    - `order date`
@@ -48,7 +48,7 @@ This project involves building analytics for an online store using three tools: 
 
 ---
 
-## 📊 Statistical Analysis
+## Statistical Analysis
 We performed:
 - **Correlation analysis**  
 - **Group comparison tests**  
@@ -57,13 +57,13 @@ using the `scipy.stats` library in Python to evaluate statistical significance a
 
 ---
 
-## 📌 Tools & Technologies
+## Tools & Technologies
 - **SQL** (Google BigQuery)  
 - **Python** (Pandas, NumPy, SciPy, Matplotlib, Seaborn)  
 - **Tableau Public**
 
 ---
 
-## 🚀 Dashboard
-👉 [View Tableau Dashboard](https://public.tableau.com/app/profile/viktoriia.serozhenko6318/viz/Project1_17566774474770/Project1?publish=yes) 
+## Dashboard
+[View Tableau Dashboard](https://public.tableau.com/app/profile/viktoriia.serozhenko6318/viz/Project1_17566774474770/Project1?publish=yes) 
 
